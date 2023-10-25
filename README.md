@@ -16,6 +16,8 @@ My name is Eza Nanda. I am a software tester. I found out about this profession 
   - [Mouse Recorder](https://www.mouserecorder.com/) - mouse and keyboard recording macro
   - [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
   - [draw.io](https://app.diagrams.net/) - Flowchart maker and online diagram software
+  - [QATouch](https://www.qatouch.com/) - QTest Management tool developed for QA teams to ease their testing work.
+  - [JMETER](https://jmeter.apache.org/) - JMeter is an Apache project that can be used as a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
   
 
 ## Tech skills
@@ -33,6 +35,7 @@ My name is Eza Nanda. I am a software tester. I found out about this profession 
   - Finding unique CSS Selectors and xPaths
   - Creating diagrams and decision tables    
   - UML
+  - Performance Test
 
   
   
